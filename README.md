@@ -54,4 +54,4 @@ And bang, you have a Facebook login form cloned. Just put some account credentia
 
 Then, you'll see on your Kali the output you get.
 
-![Alt Image](./kali-phishing-test.png)
+![Alt Image](./kali_phishing_test.png)
