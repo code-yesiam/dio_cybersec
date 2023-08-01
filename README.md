@@ -53,3 +53,5 @@ Copy that IP address you skipped and paste on your browser, on an anonymous wind
 And bang, you have a Facebook login form cloned. Just put some account credentials that you can create for this test or use some account you have that you don't like to use it anymore.
 
 Then, you'll see on your Kali the output you get.
+
+![Alt Image](./kali-phishing-test.png)
