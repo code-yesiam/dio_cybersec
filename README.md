@@ -1,4 +1,4 @@
-# Phishing model with Kali Linux to capture email and passwords from Facebook login
+# Phishing model with Kali Linux to capture credentials from Facebook login
 
 This project was made with Dio, who had created a cybersec training with Cassiano Peres. A great instructor, by the way.
 
